@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "formidable": "^2.0.1",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.20",
+    "querystring": "^0.2.1"
+  }
+}
